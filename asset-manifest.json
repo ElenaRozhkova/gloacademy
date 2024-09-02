@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gloacademy/static/css/main.442ee77c.css",
-    "main.js": "/gloacademy/static/js/main.b5d56f1c.js",
+    "main.js": "/gloacademy/static/js/main.64edec0f.js",
     "index.html": "/gloacademy/index.html",
     "main.442ee77c.css.map": "/gloacademy/static/css/main.442ee77c.css.map",
-    "main.b5d56f1c.js.map": "/gloacademy/static/js/main.b5d56f1c.js.map"
+    "main.64edec0f.js.map": "/gloacademy/static/js/main.64edec0f.js.map"
   },
   "entrypoints": [
     "static/css/main.442ee77c.css",
-    "static/js/main.b5d56f1c.js"
+    "static/js/main.64edec0f.js"
   ]
 }
