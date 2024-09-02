@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gloacademy/static/css/main.442ee77c.css",
+    "main.js": "/gloacademy/static/js/main.03fb7617.js",
+    "index.html": "/gloacademy/index.html",
+    "main.442ee77c.css.map": "/gloacademy/static/css/main.442ee77c.css.map",
+    "main.03fb7617.js.map": "/gloacademy/static/js/main.03fb7617.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.442ee77c.css",
+    "static/js/main.03fb7617.js"
+  ]
+}
